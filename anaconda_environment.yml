@@ -1,0 +1,113 @@
+name: hmtg_fmri_nc
+channels:
+- defaults
+dependencies:
+- ca-certificates=2018.03.07=0
+- certifi=2018.8.13=py27_0
+- libedit=3.1.20170329=h6b74fdf_2
+- libffi=3.2.1=hd88cf55_4
+- libgcc-ng=8.2.0=hdf63c60_1
+- libstdcxx-ng=8.2.0=hdf63c60_1
+- ncurses=6.1=hf484d3e_0
+- openssl=1.0.2p=h14c3975_0
+- pip=10.0.1=py27_0
+- python=2.7.15=h1571d57_0
+- readline=7.0=ha6073c6_4
+- setuptools=40.0.0=py27_0
+- sqlite=3.24.0=h84994c4_0
+- tk=8.6.7=hc745277_3
+- wheel=0.31.1=py27_0
+- zlib=1.2.11=ha838bed_2
+- pip:
+  - backports-abc==0.5
+  - backports.functools-lru-cache==1.5
+  - backports.shutil-get-terminal-size==1.0.0
+  - bleach==2.1.2
+  - chardet==3.0.4
+  - click==7.0
+  - configparser==3.5.0
+  - cycler==0.10.0
+  - decorator==4.1.2
+  - deepdish==0.3.6
+  - entrypoints==0.2.3
+  - enum34==1.1.6
+  - funcsigs==1.0.2
+  - functools32==3.2.3.post2
+  - future==0.16.0
+  - futures==3.2.0
+  - html5lib==1.0.1
+  - hypertools==0.4.2
+  - idna==2.6
+  - ipykernel==4.7.0
+  - ipython==5.5.0
+  - ipython-genutils==0.2.0
+  - ipywidgets==7.1.0
+  - isodate==0.6.0
+  - jinja2==2.10
+  - joblib==0.11
+  - jsonschema==2.6.0
+  - jupyter==1.0.0
+  - jupyter-client==5.2.0
+  - jupyter-console==5.2.0
+  - jupyter-core==4.4.0
+  - kiwisolver==1.0.1
+  - lxml==4.3.1
+  - markupsafe==1.0
+  - matplotlib==2.2.3
+  - memory-profiler==0.50.0
+  - mistune==0.8.3
+  - nbconvert==5.3.1
+  - nbformat==4.4.0
+  - networkx==2.2
+  - neurdflib==5.0.0.post1
+  - nibabel==2.2.1
+  - nilearn==0.4.1
+  - nipype==1.1.8
+  - nltools==0.3.6
+  - notebook==5.2.2
+  - numexpr==2.6.4
+  - numpy==1.15.0
+  - packaging==19.0
+  - pandas==0.23.4
+  - pandocfilters==1.4.2
+  - pathlib2==2.3.0
+  - pexpect==4.3.1
+  - pickleshare==0.7.4
+  - ppca==0.0.3
+  - prompt-toolkit==1.0.15
+  - prov==1.5.3
+  - psutil==5.4.3
+  - ptyprocess==0.5.2
+  - pydeface==2.0
+  - pydot==1.4.1
+  - pydotplus==2.0.2
+  - pygments==2.2.0
+  - pynv==0.1.1
+  - pyparsing==2.2.0
+  - python-dateutil==2.7.3
+  - pytz==2018.5
+  - pyzmq==16.0.3
+  - qtconsole==4.3.1
+  - rdflib==4.2.2
+  - requests==2.18.4
+  - scandir==1.6
+  - scikit-learn==0.19.2
+  - scipy==1.1.0
+  - seaborn==0.9.0
+  - simplegeneric==0.8.1
+  - simplejson==3.16.0
+  - singledispatch==3.4.0.3
+  - six==1.11.0
+  - subprocess32==3.5.2
+  - tables==3.4.2
+  - terminado==0.8.1
+  - testpath==0.3.1
+  - tornado==4.5.2
+  - traitlets==4.3.2
+  - traits==5.0.0
+  - urllib3==1.22
+  - wcwidth==0.1.7
+  - webencodings==0.5.1
+  - widgetsnbextension==3.1.0
+prefix: /home/decision/jervbaa/.conda/envs/hmtg_fmri_nc
+

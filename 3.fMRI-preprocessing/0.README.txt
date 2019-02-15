@@ -1,0 +1,6 @@
+
+These scripts are written for use with the local computing cluster (via calls to e.g. 'qsubfeval'), so they will need to be adapted to run elsewhere.
+
+The 'top-level' script (where to start) is batch_CombineAndPreprocess.m.
+
+However, the fastest way to learn the precise settings of the preprocessing pipeline is to check the SPM batch script in spmbatch_preprocessing_final.m. You can simply load this batch into SPM to reproduce the preprocessing pipeline.
