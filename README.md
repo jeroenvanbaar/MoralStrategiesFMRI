@@ -1,5 +1,5 @@
 # MoralStrategiesFMRI
-Code accompanying the manuscript: Van Baar, J.M., Chang, L.J., & Sanfey, A.G. (in press). The computational and neural substrates of moral strategies in social decision-making. Nature Communications.
+Code accompanying the manuscript: Van Baar, J.M., Chang, L.J., & Sanfey, A.G. (2019). The computational and neural substrates of moral strategies in social decision-making. Nature Communications.
 
 The data can be found at http://hdl.handle.net/11633/aabwlrrn.
 
