@@ -3,7 +3,7 @@ Code accompanying the manuscript: Van Baar, J.M., Chang, L.J., & Sanfey, A.G. (2
 
 The data can be found at http://hdl.handle.net/11633/aabwlrrn.
 
-For full descriptions of all data & analyses, please refer to the paper. For questions please contact Jeroen at jeroen_van_baar@brown.edu.
+For full descriptions of all data & analyses, please refer to the paper. For questions please contact Jeroen at jeroen.van.baar at gmail dot com (remove spaces).
 
 
 *** Contents
